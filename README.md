@@ -1,6 +1,9 @@
 # Block Breaker Game - VS Code Extension
 
+[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=masachika-kamada.vscode-block-breaker)
+
 A fun and interactive block breaker game that runs directly inside Visual Studio Code using WebView panels.
+![Block Breaker Game Screenshot](./image.png)
 
 ## Features
 
